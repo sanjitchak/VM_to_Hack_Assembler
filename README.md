@@ -6,3 +6,4 @@ It converts their VM code to their assembly code.
 
 Code is bit messy but it works.
 
+Translator is to be run in command line.
